@@ -23,9 +23,13 @@ Whether you’re a **data analyst**, **developer**, or **business user**, this a
 ### 💡 **Key Features**
 
 ✅ Convert natural language to SQL queries using **Groq LLaMA 3.3**
+
 ✅ Connects to a **PostgreSQL database** for real-time query execution
+
 ✅ View and explore database results directly in the **Streamlit web interface**
+
 ✅ Handles both `SELECT` and data manipulation queries (`UPDATE`, `INSERT`, `DELETE`)
+
 ✅ Fully modular architecture with environment-based configuration
 
 ---
